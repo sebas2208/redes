@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar'
 import Banner from './Components/Banner'
 import About from './Components/About'
 import Project from './Components/Project'
+import Portfolio from './Components/Portfolio'
 import Contact from './Components/Contact'
 
 
@@ -26,6 +27,7 @@ function App() {
       <hr />
       <Project />
       <hr />
+      <Portfolio />
       <hr />
       <h1 id="contactnav" className="contact">Información de contacto</h1>
       <hr />
